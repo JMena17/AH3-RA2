@@ -1,12 +1,7 @@
 package pos;
 
-import java.util.Iterator;
 import java.util.LinkedList;
 
-/**
- *
- * @author Juancho
- */
 public class Vendedor {
     
     private int codigo;
